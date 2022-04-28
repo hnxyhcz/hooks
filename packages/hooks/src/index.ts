@@ -4,7 +4,6 @@ import useAsyncEffect from './useAsyncEffect';
 import useBoolean from './useBoolean';
 import useClickAway from './useClickAway';
 import useControllableValue from './useControllableValue';
-import useCookieState from './useCookieState';
 import useCountDown from './useCountDown';
 import useCounter from './useCounter';
 import useCreation from './useCreation';
@@ -118,7 +117,6 @@ export {
   useTextSelection,
   useEventTarget,
   useHistoryTravel,
-  useCookieState,
   useSetState,
   useInterval,
   useWhyDidYouUpdate,
